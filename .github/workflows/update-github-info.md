@@ -50,4 +50,4 @@ Keep Mona's GitHub information page current with relevant, verified GitHub news.
 5. Use the create-pull-request safe output to propose the changes for Mona to
    review. Summarize what changed, why it matters to Mona, and the source URLs in
    the pull request body. Explicitly state that Mona's review is required. Do not
-   push directly to main, merge the pull request, or publish changes yourself.
+   push directly to main, merge the pull request, or publish changes yourself.6. Keep the pull request description concise and use US English spelling.
